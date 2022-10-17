@@ -1,5 +1,3 @@
-__author__ = 'yousefhamza'
-
 import unittest
 from aes import AES
 
